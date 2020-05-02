@@ -416,19 +416,6 @@
       "company_logo":null
    },
    {
-      "id":"31",
-      "type":"Romano 12:2",
-      "url":"",
-      "created_at":"",
-      "company":"Por Alcides Reyes",
-      "company_url":"",
-      "location":"Mes de mayo",
-      "title":"Mayo: Venciendo nuestras pasiones",
-      "description":"",
-      "how_to_apply":"",
-      "company_logo":null
-   },
-   {
       "id":"32",
       "type":"Romano 12:2",
       "url":"",
@@ -814,6 +801,19 @@
       "company_url":"",
       "location":"30 de mayo",
       "title":"La Buena Alternativa",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"31",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Equipo de Reflexiones Juveniles",
+      "company_url":"",
+      "location":"Mes de mayo",
+      "title":"Bibliografía",
       "description":"",
       "how_to_apply":"",
       "company_logo":null
