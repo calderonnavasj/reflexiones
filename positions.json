@@ -416,7 +416,7 @@
       "company_logo":null
    },
    {
-      "id":"31",
+      "id":"32",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -429,7 +429,7 @@
       "company_logo":null
    },
    {
-      "id":"32",
+      "id":"33",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -442,7 +442,7 @@
       "company_logo":null
    },
    {
-      "id":"33",
+      "id":"34",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -455,7 +455,7 @@
       "company_logo":null
    },
    {
-      "id":"34",
+      "id":"35",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -468,7 +468,7 @@
       "company_logo":null
    },
    {
-      "id":"35",
+      "id":"36",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -481,7 +481,7 @@
       "company_logo":null
    },
    {
-      "id":"36",
+      "id":"37",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -494,7 +494,7 @@
       "company_logo":null
    },
    {
-      "id":"37",
+      "id":"38",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -507,7 +507,7 @@
       "company_logo":null
    },
    {
-      "id":"38",
+      "id":"39",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -520,7 +520,7 @@
       "company_logo":null
    },
    {
-      "id":"39",
+      "id":"40",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -533,7 +533,7 @@
       "company_logo":null
    },
    {
-      "id":"40",
+      "id":"41",
       "type":"Romano 12:2",
       "url":"",
       "created_at":"",
@@ -541,6 +541,279 @@
       "company_url":"",
       "location":"10 de mayo",
       "title":"Principio uno: Reconoce tus debilidades",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"42",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"11 de mayo",
+      "title":"Principio dos: Confiesa los pecados",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"43",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"12 de mayo",
+      "title":"Principio tres: Cambia de ruta",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"44",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"13 de mayo",
+      "title":"Principio cuatro: Retírate a tiempo",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"45",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"14 de mayo",
+      "title":"Principio cinco: Infórmate con la verdad",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"46",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"15 de mayo",
+      "title":"Principio seis: Observa tu manera de vivir",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"47",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"16 de mayo",
+      "title":"Principio siete: Ora con devoción",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"48",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"17 de mayo",
+      "title":"Principio ocho: Ocúpate en la servicio de Dios",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"49",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"18 de mayo",
+      "title":"Principio nueve: Acompáñate de buenas personas",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"50",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"19 de mayo",
+      "title":"Principio diez: Vive en el Espíritu",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"51",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"20 de mayo",
+      "title":"Principio once: Busca ayuda profesional",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"52",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"21 de mayo",
+      "title":"Principio doce: Vive en la voluntad de Dios",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"53",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"22 de mayo",
+      "title":"Principio trece: Cuida de ti mismo",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"54",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"23 de mayo",
+      "title":"Vístete bien",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"55",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"24 de mayo",
+      "title":"Ajusta bien tu cinturón",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"56",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"25 de mayo",
+      "title":"Que sea de tu talla",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"57",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"26 de mayo",
+      "title":"Made in Reino de Dios",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"58",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"27 de mayo",
+      "title":"Lo más grande que puedas",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"59",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"28 de mayo",
+      "title":"Usa casco",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"60",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"29 de mayo",
+      "title":"La más afilada",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"61",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Por Alcides Reyes",
+      "company_url":"",
+      "location":"30 de mayo",
+      "title":"La Buena Alternativa",
+      "description":"",
+      "how_to_apply":"",
+      "company_logo":null
+   },
+   {
+      "id":"31",
+      "type":"Romano 12:2",
+      "url":"",
+      "created_at":"",
+      "company":"Equipo de Reflexiones Juveniles",
+      "company_url":"",
+      "location":"Mes de mayo",
+      "title":"Bibliografía",
       "description":"",
       "how_to_apply":"",
       "company_logo":null
